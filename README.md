@@ -5,7 +5,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />    
 <h3 align="center">A Cloud & DevOps Engineer from India</h3>
-![gitartwork](https://raw.githubusercontent.com/farhan-sayeed/farhan-sayeed/main/gitartwork.svg)
+![gitartwork](gitartwork.svg)
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlazyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="mrlazyprogrammer" /> </p>
