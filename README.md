@@ -1,6 +1,13 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/02/82/37/86/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg)]()
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Farhan+Sayeed....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h1 align="center">Hi 👋, I'm Md Farhan Sayeed</h1>
 <h3 align="center">A Cloud & DevOps Engineer from India</h3>
+![gitartwork](gitartwork.svg)
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlazyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="mrlazyprogrammer" /> </p>
