@@ -37,5 +37,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-sayeed" alt="farhan-sayeed" /></p>
 
-<h4>✍ Random Dev Quote</h4>
+<h4 align="left">Hactoberfest 2023 Contribution & Swags:</h4>
+
+[![An image of @farhansayeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhansayeed)](https://holopin.io/@farhansayeed)
+
+#### ✍ Random Dev Quote
+<h3>✍ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
